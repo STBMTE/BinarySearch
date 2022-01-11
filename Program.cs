@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace ShakerSort
+namespace BinarySearch
 {
     class Program
     {
